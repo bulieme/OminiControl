@@ -112,4 +112,5 @@ if __name__ == "__main__":
     init_pipeline()
     demo.launch(
         debug=True,
+        share=True
     )
